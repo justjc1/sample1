@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@font-face {
+    font-family: 'Caviar Dreams';
+    src: url('font/CaviarDreams.ttf');
+}
+
+body {
+background:#cccccc;
+}
+#wrapper {
+	width:995px;
+	margin:0 auto;
+}
+
+.container {
+  padding-right: 16px;
+  padding-left: 16px;
+  background-color:#ffffff;
+}
+
+.header {
+	display:block;
+	margin:0 auto;
+	width:100%;
+	height:80px;
+  background-color: #ffffff;
+  margin-bottom:40px;
+}
+
+.logo {
+display:block;
+padding:16px 16px 0 0;
+float:left;
+}
+.guides {
+display:block;
+float:left;
+width:512px;
+height:82px;
+border:1px solid #cccccc;
+padding:14px 0 0 1px;
+}
+.topLine {
+display:inline-block;
+width:80%;
+float:left;
+margin:-3px 0 0 0;
+  color: #6f727a !important;
+  font-family: 'Caviar Dreams';
+  font-weight:normal;
+      font-size:19px;
+	  letter-spacing: 0.02em;
+	  border:0px;
+
+}
+
+.bottomLine {
+display:inline-block;
+background:transparent;
+width:80%;
+position:relative;
+float:left;
+margin:-3px 0 0 0;
+  font-family: 'Caviar Dreams';
+  font-weight:normal;
+      font-size:29px;
+	  letter-spacing: -0.005em;
+	  	  border:0px;
+}
+.topLineLongName {
+display:inline-block;
+width:80%;
+float:left;
+margin:-3px 0 0 0;
+  font-family: 'Caviar Dreams';
+  font-weight:normal;
+      font-size:22px;
+	  letter-spacing: -0.005em;
+	  	  border:0px;
+}
+.bottomLineLongName {
+display:inline-block;
+width:80%;
+float:left;
+margin:-3px 0 0 0;
+  font-family: 'Caviar Dreams';
+  font-weight:normal;
+      font-size:22px;
+	  letter-spacing: -0.005em;
+	  	  border:0px;
+}
+.searchGuides {
+display:block;
+float:left;
+width:473px;
+height:60px;
+border:1px solid #cccccc;
+padding:8px 0 8px 8px;
+}
+.searchGuides2 {
+display:block;
+float:left;
+width:473px;
+height:60px;
+padding:8px 0 8px 8px;
+}
+.logoSearch {
+display:block;
+padding:8px 8px 0 0;
+float:left;
+}
+.topLineSearch {
+display:inline-block;
+width:80%;
+float:left;
+margin:1px 0 0 0;
+  color: #6f727a !important;
+  font-family: 'Caviar Dreams';
+  font-weight:normal;
+      font-size:19px;
+	  letter-spacing: 0.02em;
+	  border:0px;
+}
+.bottomLineSearch {
+display:inline-block;
+width:85%;
+background:transparent;
+position:relative;
+float:left;
+margin:-1px 0 0 0;
+  font-family: 'Caviar Dreams';
+  font-weight:normal;
+      font-size:29px;
+	  letter-spacing: -0.005em;
+	  	  border:0px;
+}
+.topLineSearchLongName {
+display:inline-block;
+width:85%;
+float:left;
+margin:1px 0 0 0;
+  font-family: 'Caviar Dreams';
+  font-weight:normal;
+      font-size:22px;
+	  letter-spacing: -0.005em;
+	  	  border:0px;
+}
+.bottomLineSearchLongName {
+display:inline-block;
+width:85%;
+background:transparent;
+position:relative;
+float:left;
+margin:0 0 0 0;
+  font-family: 'Caviar Dreams';
+  font-weight:normal;
+      font-size:22px;
+	  letter-spacing: -0.005em;
+	  	  border:0px;
+}
